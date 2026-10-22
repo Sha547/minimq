@@ -1,0 +1,8 @@
+{
+  "name": "minimq",
+  "version": "1.0.0",
+  "description": "A tiny publish/subscribe message broker over TCP, for learning",
+  "private": true,
+  "scripts": { "start": "node broker.js", "client": "node client.js", "test": "node test.js" },
+  "license": "MIT"
+}
